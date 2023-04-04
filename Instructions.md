@@ -2,10 +2,10 @@
 
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/bus_gif.gif" alt="bus gif" width="400"/>
 
-## Introduction
+# Introduction
 ### Using public transportation can be a very convenient option for traveling around your area. Many people do not ride the bus because they do not know how it works. These steps below will tell you how to ride a Port Authority Bus. All you will need is the Google Maps app on your smartphone, and a payment method to cover the bus fare.
 
-## Steps:
+# Steps:
 #### 1. Find and open Google Maps or download from the App Store.
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/appStore.PNG" alt="app store" width="200"/>
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/homeScreen.jpg" alt="home screen" width="200"/>
