@@ -6,7 +6,7 @@
 ### Using public transportation can be a very convenient option for traveling around your area. Many people do not ride the bus because they do not know how it works. These steps below will tell you how to ride a Port Authority Bus. All you will need is the Google Maps app on your smartphone, and a payment method to cover the bus fare.
 
 # Steps:
-#### 1. Find and open Google Maps or download from the App Store.
+### 1. Find and open Google Maps or download from the App Store.
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/appStore.PNG" alt="app store" width="200"/>
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/homeScreen.jpg" alt="home screen" width="200"/>
 
@@ -21,7 +21,7 @@
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/route.jpg" alt="route" width="200"/>
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/route2.jpg" alt="route2" width="200"/>
 
-#### 4. Find your bus stop.
+### 4. Find your bus stop.
 * Make sure you are on the correct side of the street or else you will be going the opposite direction!
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/route3.jpg" alt="route 3" width="200"/>
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/busstop.jpg" alt="bus stop" width="200"/>
@@ -35,7 +35,7 @@
 * If you have a Port Authority ConnectCard, tap on the orange card target until it lights up. You may also pay in cash. The fare for a single one-way ride is currently $2.75. You can insert bills and coins next to the card target.
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/card.JPG" alt="card" width="400"/>
 
-#### 7. Find a seat.
+### 7. Find a seat.
 * Find an open seat on the bus and place any bags on your lap so the seat next to you is open for other passengers. If all seats are taken, you may have to stand and hold onto a rail or handle strap.
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/seat.JPG" alt="seat" width="400"/>
 
@@ -53,5 +53,5 @@
 * Your destination may or may not be in sight depending on how far you still have to walk. Google Maps will tell you where and how far you have to walk.
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/walk.jpg" alt="walk" width="200"/>
 
-## Safe Traveling!
+# Congratulations! Now you can navigate bus routes using Google Maps!
 
