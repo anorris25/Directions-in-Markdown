@@ -7,7 +7,7 @@
 
 # Steps:
 ### 1. Find and open Google Maps or download from the App Store.
-<img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/appStore.PNG" alt="app store" width="200"/>
+<img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/appStore.PNG" alt="app store" width="300"/>
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/homeScreen.jpg" alt="home screen" width="200"/>
 
 ### 2. Type in the name or address of your destination.
