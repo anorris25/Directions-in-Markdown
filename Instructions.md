@@ -53,5 +53,5 @@
 * Your destination may or may not be in sight depending on how far you still have to walk. Google Maps will tell you where and how far you have to walk.
 <img src="https://github.com/anorris25/Directions-in-Markdown/blob/main/Bus%20Images/walk.jpg" alt="walk" width="200"/>
 
-# Congratulations! Now you can navigate bus routes using Google Maps!
+> Congratulations! Now you can navigate bus routes using Google Maps!
 
